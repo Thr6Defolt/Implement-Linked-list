@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\bin\Debug\net6.0\Implement Linked list.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\bin\Debug\net6.0\Implement Linked list.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\bin\Debug\net6.0\Implement Linked list.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\bin\Debug\net6.0\Implement Linked list.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\bin\Debug\net6.0\Implement Linked list.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\refint\Implement Linked list.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\Implement Linked list.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Implement Linked list\Implement Linked list\obj\Debug\net6.0\ref\Implement Linked list.dll
